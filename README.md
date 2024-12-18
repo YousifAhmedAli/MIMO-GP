@@ -1,2 +1,2 @@
 # MIMO-GP
-Rx branch
+Tx Branch
