@@ -39,7 +39,7 @@ The full signal chain—from bit generation to beamformed RF output and back—i
 - **Receiver chain**: Sigma-delta ADC, interleaving, digital down-conversion, beamforming using complex weights, decimation, matched filtering, and symbol demodulation.
 
 
-## 🗂️ Repository Structure
+# 🗂️ Repository Structure
 
 This repository is organized into several main folders, each serving a distinct purpose in the design and development of the Massive MIMO Digital Beamforming Transceiver system:
 
