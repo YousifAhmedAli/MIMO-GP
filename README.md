@@ -1,6 +1,6 @@
 # MIMO-GP
 
-## 📘 Introduction
+# 📘 Introduction
 
 Welcome to the Beamforming MIMO Project repository!  
 This project presents the design and implementation of a **fully digital beamforming transceiver system** for 5G wireless communications in the **mmWave frequency band at 39 GHz**. The system is tailored for **massive MIMO (Multiple-Input Multiple-Output)** technology, which significantly improves spectral efficiency by allowing base stations to simultaneously serve multiple users over the same frequency resources.
@@ -18,9 +18,9 @@ This project is implemented using **MATLAB/Simulink for system modeling** and tr
 
 ---
 
----
 
-## 🗂️ Table of Contents
+
+# 🗂️ Table of Contents
 
 - [`/docs/`](./Documentation) - Documentation, reports, or design notes  
 - [`/Mdl/`](./System_Modeling) - Floating and Fixed point models with helper MATLAB functions  
@@ -37,7 +37,7 @@ The system is built on a **4x4 antenna array** and processes signals from RF to 
 The full signal chain—from bit generation to beamformed RF output and back—includes:
 - **Transmitter chain**: QPSK modulation, square-root filtering, interpolation, digital up-conversion, sigma-delta modulation, and DAC output.
 - **Receiver chain**: Sigma-delta ADC, interleaving, digital down-conversion, beamforming using complex weights, decimation, matched filtering, and symbol demodulation.
-
+---
 
 # 🗂️ Repository Structure
 
