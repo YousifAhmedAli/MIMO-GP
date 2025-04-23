@@ -38,9 +38,49 @@ The full signal chain—from bit generation to beamformed RF output and back—i
 - **Transmitter chain**: QPSK modulation, square-root filtering, interpolation, digital up-conversion, sigma-delta modulation, and DAC output.
 - **Receiver chain**: Sigma-delta ADC, interleaving, digital down-conversion, beamforming using complex weights, decimation, matched filtering, and symbol demodulation.
 
-The project is designed using **MATLAB/Simulink** for high-level modeling and transitions into **RTL design and ASIC synthesis**, offering a complete development flow from simulation to silicon.
 
-Repo Structure – explanation of the repo layout
+🗂️ Repository Structure
+
+This repository is organized into several main folders, each serving a distinct purpose in the design and development of the Massive MIMO Digital Beamforming Transceiver system:
+
+---
+
+## 📁 ASIC_FLOW
+
+This folder contains the complete RTL synthesis and Place & Route (PnR) files for both the transmitter and receiver sections of the transceiver. It includes:
+
+- **Synthesis scripts** for logic synthesis of RTL modules.
+- **PnR scripts** for backend implementation including floorplanning and placement.
+- **Output files** such as timing reports, area/power estimates, and netlists.
+- Organized by Tx and Rx submodules for modular verification and reuse.
+
+---
+
+## 📁 Documentation
+
+This folder houses all formal documentation associated with the project, including:
+
+- **Block Diagrams**: Visual representations of the transmitter and receiver signal chains.
+- **Project Thesis**: A comprehensive report detailing the project objectives, design methodology, system architecture, and results.
+
+---
+
+## 📁 System_Modelling
+
+This directory contains the complete system-level models developed in MATLAB/Simulink:
+
+- **Floating Point Model**: Ideal high-precision model for functional verification.
+- **Fixed Point Model**: Hardware-accurate model suitable for RTL translation and quantization-aware analysis.
+- **Subfolder: /utils/**:
+  - Scripts to **convert decimal data to binary formats** for digital transmission.
+  - MATLAB files to **generate beamforming constants** used in digital weight calculations.
+  - Functions to **assess beamforming performance**, such as beam directionality and array gain.
+  - A utility to **calculate SQNR (Signal-to-Quantization-Noise Ratio)** of various blocks in the chain.
+
+---
+
+"""
+
 
 Features – TBU
 
