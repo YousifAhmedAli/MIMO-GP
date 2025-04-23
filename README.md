@@ -39,7 +39,7 @@ The full signal chain—from bit generation to beamformed RF output and back—i
 - **Receiver chain**: Sigma-delta ADC, interleaving, digital down-conversion, beamforming using complex weights, decimation, matched filtering, and symbol demodulation.
 
 
-🗂️ Repository Structure
+## 🗂️ Repository Structure
 
 This repository is organized into several main folders, each serving a distinct purpose in the design and development of the Massive MIMO Digital Beamforming Transceiver system:
 
@@ -52,7 +52,7 @@ This folder contains the complete RTL synthesis and Place & Route (PnR) files fo
 - **Synthesis scripts** for logic synthesis of RTL modules.
 - **PnR scripts** for backend implementation including floorplanning and placement.
 - **Output files** such as timing reports, area/power estimates, and netlists.
-- Organized by Tx and Rx submodules for modular verification and reuse.
+- Organized by Tx and Rx submodules.
 
 ---
 
@@ -71,10 +71,9 @@ This directory contains the complete system-level models developed in MATLAB/Sim
 
 - **Floating Point Model**: Ideal high-precision model for functional verification.
 - **Fixed Point Model**: Hardware-accurate model suitable for RTL translation and quantization-aware analysis.
-- **Subfolder: /utils/**:
+- **Subfolder:**:
   - Scripts to **convert decimal data to binary formats** for digital transmission.
   - MATLAB files to **generate beamforming constants** used in digital weight calculations.
-  - Functions to **assess beamforming performance**, such as beam directionality and array gain.
   - A utility to **calculate SQNR (Signal-to-Quantization-Noise Ratio)** of various blocks in the chain.
 
 ---
