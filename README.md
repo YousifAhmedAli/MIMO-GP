@@ -24,7 +24,7 @@ This project is implemented using **MATLAB/Simulink for system modeling** and tr
 
 - [`Documentation`](./Documentation) - Documentation, reports, or design notes  
 - [`System_Modeling`](./System_Modeling) - Floating and Fixed point models with helper MATLAB functions  
-- [`/ASIC_Flow/`](./ASIC_Flow) - RTL, Scripts and Files of the Digital ASIC Flow  
+- [`ASIC_Flow`](./ASIC_Flow) - RTL, Scripts and Files of the Digital ASIC Flow  
 - [`README`](./README.md) - Project overview and documentation  
 
 ---
