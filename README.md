@@ -91,7 +91,7 @@ Feel free to reach out to any of the team members for questions or collaboration
 
 | Name              | Email                       | LinkedIn                                                                        |
 |-------------------|-----------------------------|---------------------------------------------------------------------------------|
-| Yousif Ahmed      | yousifahmedp7@gmail.com     | [@Yousif_Ahmed]((https://www.linkedin.com/in/yousif-ahmed-a97766252/))      |
+| Yousif Ahmed      | yousifahmedp7@gmail.com     | [@Yousif_Ahmed](https://www.linkedin.com/in/yousif-ahmed-a97766252/)     |
 | Ziad Ahmed        | zziad.ahmed.17@gmail.com    | [@Ziad_Ahmed](https://www.linkedin.com/in/ziad-ahmed-02620b249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)|
 | Charlie Nguyen    | charlie.n@example.com       | [@charlie-nguyen](https://github.com/charlie-nguyen)    |
 | asdjniasdhaisdas  | adsdadas                    | dasdddddddddddddddddddddddddd                           |
