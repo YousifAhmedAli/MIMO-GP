@@ -89,10 +89,10 @@ Features – TBU
 
 Feel free to reach out to any of the team members for questions or collaboration!
 
-| Name              | Email                       | LinkedIn                                                |
-|-------------------|-----------------------------|---------------------------------------------------------|
-| Alice Smith       | alice@example.com           | [@alice-smith](https://github.com/alice-smith)          |
-| Bob Johnson       | bob.johnson@example.com     | [@bobjohnson](https://github.com/bobjohnson)            |
+| Name              | Email                       | LinkedIn                                                                        |
+|-------------------|-----------------------------|---------------------------------------------------------------------------------|
+| Yousif Ahmed      | yousifahmedp7@gmail.com     | [@Yousif Ahmed]([(https://www.linkedin.com/in/yousif-ahmed-a97766252/)])                                                                            |
+| Ziad Ahmed        | zziad.ahmed.17@gmail.com    | [@Ziad Ahmed]([https://www.linkedin.com/in/ziad-ahmed-02620b249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app])|
 | Charlie Nguyen    | charlie.n@example.com       | [@charlie-nguyen](https://github.com/charlie-nguyen)    |
 | asdjniasdhaisdas  | adsdadas                    | dasdddddddddddddddddddddddddd                           |
 | asdjniasdhaisdas  | adsdadas                    | dasdddddddddddddddddddddddddd                           |
