@@ -95,6 +95,7 @@ Feel free to reach out to any of the team members for questions or collaboration
 | Ziad Ahmed        | zziad.ahmed.17@gmail.com    | [@Ziad_Ahmed](https://www.linkedin.com/in/ziad-ahmed-02620b249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)|
 | Momen Khaled      | momen.khaled2711@gmail.com  | [@momen_khaled](https://www.linkedin.com/in/momen-khaaled/)     |
 | Jumana Ahmed      | jumanaahmed43@gmail.com     | [www.linkedin.com/in/jumana-ahmed-a67a3327b ](https://www.linkedin.com/in/jumana-ahmed-a67a3327b/)  |
+| Asmaa Anwar       | asmaaanwerhamed@gmail.com   | [@Asmaa Anwar](https://www.linkedin.com/in/asmaa-anwar-87ba78237/)  |
 
 
 **Supervisors:**
