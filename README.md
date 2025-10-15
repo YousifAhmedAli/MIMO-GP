@@ -78,12 +78,6 @@ This directory contains the complete system-level models developed in MATLAB/Sim
 
 ---
 
-"""
-
-
-Features – TBU
-
-
 
 ## 📬 Contacts
 
